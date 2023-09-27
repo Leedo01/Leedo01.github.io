@@ -2,8 +2,8 @@
 name: IssueTok template
 about: IssueTok
 title: IssueTok
-labels: ''
-assignees: ''
+labels: IssueTok
+assignees: Leedo01
 
 ---
 
